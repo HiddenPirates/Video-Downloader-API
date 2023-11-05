@@ -2,7 +2,7 @@
 
 This project is written in PHP and uses **[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** to get video information from video link. 
 That's why you have to properly install **YouTube-DL** on your hosting server. Go to **[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** 
-repo to know how to install **YouTube-Dl**.
+repo to know how to install **YouTube-DL**.
 
 ## Installation
 - Just clone this project in your hosting server's **`public_html`** directory.
